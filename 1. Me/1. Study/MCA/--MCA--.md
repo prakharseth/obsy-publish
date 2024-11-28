@@ -1,5 +1,0 @@
-- [[Discrete Mathematics Syllabus]]
-- [[COA]]
-- [[Fundamental Of Computers & Emerging Technologies]]
-- [[C]]
-- [[Principle of Management]]

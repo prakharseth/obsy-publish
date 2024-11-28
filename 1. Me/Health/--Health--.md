@@ -1,2 +1,0 @@
-[[Physical Health]]
-[[Mental Health]]
